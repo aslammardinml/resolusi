@@ -9,10 +9,14 @@ KEMAMPUAN ASLAMMARDINML
   ^ CodeIgnier
   ^ Laravel
 - Pascal
--Visual Basic
+- Visual Basic
 - Phyton
 - HTML dan CSS
 - Framework CSS
  ^ Bootstrap
  ^ Tailwinds
  ^ Material
+- Office
+  ^ Microsoft Word
+  ^ Microsoft Excel
+  ^ Power Point
