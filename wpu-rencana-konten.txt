@@ -23,3 +23,7 @@ KEMAMPUAN ASLAMMARDINML
 - Jaringan
  ^ Mikrotik
  ^ Debian 8
+- Ngaji
+  ^ Syorof
+  ^ Nahwu
+  ^ Mutammmiah
