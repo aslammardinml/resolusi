@@ -3,7 +3,9 @@ RENCANA KONTEN WPU
  * ES6
  * Framwork javacript
   ^ Vue
-  ^ React
+  ^ ReactJS
+  ^ ExpressJS
+  ^ JQuery
   ^ Angular
 - struktur data dasar
 - PHP framwork
