@@ -23,7 +23,17 @@ KEMAMPUAN ASLAMMARDINML
 - Jaringan
  ^ Mikrotik
  ^ Debian 8
+
 - Ngaji
   ^ Syorof
   ^ Nahwu
   ^ Mutammmiah
+
+- Desain
+^ Photoshop
+^ figma
+^ corelDraw 7
+^ UiDesaing
+^ AdobeXD
+^ SketchUp
+
