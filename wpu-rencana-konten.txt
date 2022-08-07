@@ -1,20 +1,18 @@
-RENCANA KONTEN WPU
+KEMAMPUAN ASLAMMARDINML
 - Javascript
  * ES6
  * Framwork javacript
-  ^ Vue
   ^ ReactJS
   ^ ExpressJS
   ^ JQuery
-  ^ Angular
-- struktur data dasar
 - PHP framwork
   ^ CodeIgnier
   ^ Laravel
-- interview
-- vlog
+- Pascal
+-Visual Basic
 - Phyton
 - HTML dan CSS
 - Framework CSS
  ^ Bootstrap
  ^ Tailwinds
+ ^ Material
