@@ -14,3 +14,7 @@ RENCANA KONTEN WPU
 - interview
 - vlog
 - Phyton
+- HTML dan CSS
+- Framework CSS
+ ^ Bootstrap
+ ^ Tailwinds
