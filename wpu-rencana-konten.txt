@@ -1,39 +1,7 @@
 KEMAMPUAN ASLAMMARDINML
-- Javascript
- * ES6
- * Framwork javacript
-  ^ ReactJS
-  ^ ExpressJS
-  ^ JQuery
-- PHP framwork
-  ^ CodeIgnier
-  ^ Laravel
-- Pascal
-- Visual Basic
-- Phyton
-- HTML dan CSS
-- Framework CSS
- ^ Bootstrap
- ^ Tailwinds
- ^ Material
-- Office
-  ^ Microsoft Word
-  ^ Microsoft Excel
-  ^ Power Point
-- Jaringan
- ^ Mikrotik
- ^ Debian 8
-
 - Ngaji
   ^ Syorof
   ^ Nahwu
   ^ Mutammmiah
 
-- Desain
-^ Photoshop
-^ figma
-^ corelDraw 7
-^ UiDesaing
-^ AdobeXD
-^ SketchUp
 
