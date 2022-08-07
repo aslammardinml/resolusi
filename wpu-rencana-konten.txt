@@ -20,3 +20,6 @@ KEMAMPUAN ASLAMMARDINML
   ^ Microsoft Word
   ^ Microsoft Excel
   ^ Power Point
+- Jaringan
+ ^ Mikrotik
+ ^ Debian 8
